@@ -8,7 +8,8 @@
 - POST /lutadores/golpe: Realiza um golpe, o corpo da requisição deve conter o valor dos campos "idLutadorBate" e "idLutadorApanha".
 - GET /lutadores/mortos: Retorna um inteiro que representa a quantidade de lutadores que estão mortos.
 
-<h1>🛠 Tecnologias</h1>
+<h2>🛠 Tecnologias</h2>
+
   - Java 8
   - Springboot
   - JPA / Hibernate
@@ -16,7 +17,7 @@
   - Mockito
   - Hamcrest
   
-<h1>▶️ Como executar o projeto</h1>
+<h2>▶️ Como executar o projeto</h2>
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
