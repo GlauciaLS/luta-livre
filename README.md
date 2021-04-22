@@ -11,7 +11,7 @@
 <h2>🛠 Tecnologias</h2>
 
   - Java 8
-  - Springboot
+  - Spring Boot
   - JPA / Hibernate
   - JUnit
   - Mockito
